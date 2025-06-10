@@ -29,7 +29,7 @@ Es un conjunto de palabras estandarizadas que se usan para deletrear letras de f
 
 ```bash
 pip install pandas
-
+```
 3. Ejecuta el script:
 python main.py
 
