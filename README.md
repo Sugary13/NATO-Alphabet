@@ -36,7 +36,9 @@ python main.py
 4. Ingresa una palabra cuando el programa lo solicite.
 
 📁 Estructura del proyecto
+
 .
+
 ├── main.py                         # Script principal
 
 ├── nato_phonetic_alphabet.csv     # CSV con letras y sus códigos fonéticos
